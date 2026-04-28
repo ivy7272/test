@@ -1,0 +1,11 @@
+# 核心依赖
+streamlit
+pandas
+openpyxl
+streamlit-cookies-controller
+python-dotenv
+
+# 开发依赖
+pytest
+black
+flake8
